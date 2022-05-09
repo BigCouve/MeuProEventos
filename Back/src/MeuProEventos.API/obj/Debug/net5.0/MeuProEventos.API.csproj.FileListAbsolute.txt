@@ -1,29 +1,57 @@
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\bin\Debug\net5.0\appsettings.json
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\bin\Debug\net5.0\MeuProEventos.API.exe
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\bin\Debug\net5.0\MeuProEventos.API.deps.json
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\bin\Debug\net5.0\MeuProEventos.API.runtimeconfig.json
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\bin\Debug\net5.0\MeuProEventos.API.runtimeconfig.dev.json
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\bin\Debug\net5.0\MeuProEventos.API.dll
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\bin\Debug\net5.0\ref\MeuProEventos.API.dll
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\bin\Debug\net5.0\MeuProEventos.API.pdb
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\obj\Debug\net5.0\MeuProEventos.API.csproj.AssemblyReference.cache
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\obj\Debug\net5.0\MeuProEventos.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\obj\Debug\net5.0\MeuProEventos.API.AssemblyInfoInputs.cache
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\obj\Debug\net5.0\MeuProEventos.API.AssemblyInfo.cs
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\obj\Debug\net5.0\MeuProEventos.API.csproj.CoreCompileInputs.cache
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\obj\Debug\net5.0\MeuProEventos.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\obj\Debug\net5.0\MeuProEventos.API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\obj\Debug\net5.0\staticwebassets\MeuProEventos.API.StaticWebAssets.Manifest.cache
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\obj\Debug\net5.0\staticwebassets\MeuProEventos.API.StaticWebAssets.xml
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\obj\Debug\net5.0\scopedcss\bundle\MeuProEventos.API.styles.css
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\obj\Debug\net5.0\MeuProEventos.API.RazorTargetAssemblyInfo.cache
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\obj\Debug\net5.0\MeuProEventos.API.csproj.CopyComplete
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\obj\Debug\net5.0\MeuProEventos.API.dll
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\obj\Debug\net5.0\ref\MeuProEventos.API.dll
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\obj\Debug\net5.0\MeuProEventos.API.pdb
-C:\Users\Purple World\MeuProEventos\Back\src\MeuProEventos.API\obj\Debug\net5.0\MeuProEventos.API.genruntimeconfig.cache
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/appsettings.json
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/MeuProEventos.API.exe
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/MeuProEventos.API.deps.json
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/MeuProEventos.API.runtimeconfig.json
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/MeuProEventos.API.runtimeconfig.dev.json
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/MeuProEventos.API.dll
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/ref/MeuProEventos.API.dll
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/MeuProEventos.API.pdb
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.csproj.AssemblyReference.cache
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.AssemblyInfoInputs.cache
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.AssemblyInfo.cs
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.csproj.CoreCompileInputs.cache
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/staticwebassets/MeuProEventos.API.StaticWebAssets.Manifest.cache
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/staticwebassets/MeuProEventos.API.StaticWebAssets.xml
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/scopedcss/bundle/MeuProEventos.API.styles.css
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.RazorTargetAssemblyInfo.cache
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.csproj.CopyComplete
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.dll
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/ref/MeuProEventos.API.dll
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.pdb
+C:/Users/Purple World/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.genruntimeconfig.cache
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/appsettings.Development.json
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/appsettings.json
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/MeuProEventos.API.deps.json
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/MeuProEventos.API.runtimeconfig.json
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/MeuProEventos.API.runtimeconfig.dev.json
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/MeuProEventos.API.dll
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/ref/MeuProEventos.API.dll
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/MeuProEventos.API.pdb
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.csproj.AssemblyReference.cache
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.AssemblyInfoInputs.cache
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.AssemblyInfo.cs
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.csproj.CoreCompileInputs.cache
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/staticwebassets/MeuProEventos.API.StaticWebAssets.Manifest.cache
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/staticwebassets/MeuProEventos.API.StaticWebAssets.xml
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/scopedcss/bundle/MeuProEventos.API.styles.css
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.RazorTargetAssemblyInfo.cache
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.csproj.CopyComplete
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.dll
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/ref/MeuProEventos.API.dll
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.pdb
+/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/obj/Debug/net5.0/MeuProEventos.API.genruntimeconfig.cache
