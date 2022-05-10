@@ -18,7 +18,7 @@ namespace MeuProEventos.API.Controllers
         }
 
         [HttpGet]
-        public string Get()
+        public Evento Get()
         {
             return $"Exemplo de Get"; 
         }
