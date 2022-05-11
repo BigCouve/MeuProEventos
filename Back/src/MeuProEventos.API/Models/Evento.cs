@@ -13,7 +13,7 @@ namespace MeuProEventos.API.Models
         public string Tema { get; set; }
         public int QtdPessoas { get; set; }
         public string Lote { get; set; }
-        public string ImagemUrl { get; set; }
+        public string ImagemURL { get; set; }
         
     }
 }
