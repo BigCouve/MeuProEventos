@@ -12,10 +12,10 @@ namespace MeuProEventos.API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class EventoController : ControllerBase
+    public class EventosController : ControllerBase
     {
         private readonly DataContext context;
-        public EventoController(DataContext context)
+        public EventosController(DataContext context)
         {
             this.context = context;
 
