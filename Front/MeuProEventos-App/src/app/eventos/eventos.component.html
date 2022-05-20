@@ -20,17 +20,23 @@
       <th>Options</th>
     </tr>
   </thead>
-  <tbody>
-    <tr *ngFor="let dado of dados">
-      <td>{{dado.id}}</td>
-      <td>{{dado.Image}}</td>
-      <td>{{dado.Tema}}</td>
-      <td>{{dado.Local}}</td>
-      <td>{{dado.Data}}</td>
-      <td>{{dado.QtdPessoas}}</td>
-      <td>{{dado.Lote}}</td>
-      <td><a href="#">{{dado.Options}}</a></td>
+  <tbody *ngIf= "eventos && eventos.length">
+    <tr *ngFor="let evento of eventos">
+      <td>{{evento.eventoId}}</td>
+      <td>{{evento.imagemURL}}</td>
+      <td>{{evento.tema}}</td>
+      <td>{{evento.local}}</td>
+      <td>{{evento.dataEvento}}</td>
+      <td>{{evento.qtdPessoas}}</td>
+      <td>{{evento.lote}}</td>
+      <td><a href="#">{{evento.eventoId}}</a></td>
     </tr>
-  
   </tbody>
+  <tfoot *ngIf= "!eventos.length">
+    <tr>
+      <td colspan="8" class="text-center">
+        <h4>Nenhum Evento encontrado!</h4>
+      </td>
+    </tr>
+  </tfoot>
 </table>

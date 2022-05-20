@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Purple World\\MeuProEventos\\Back\\src\\MeuProEventos.API\\MeuProEventos.API.csproj": {}
+    "/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/MeuProEventos.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Purple World\\MeuProEventos\\Back\\src\\MeuProEventos.API\\MeuProEventos.API.csproj": {
+    "/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/MeuProEventos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Purple World\\MeuProEventos\\Back\\src\\MeuProEventos.API\\MeuProEventos.API.csproj",
+        "projectUniqueName": "/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/MeuProEventos.API.csproj",
         "projectName": "MeuProEventos.API",
-        "projectPath": "C:\\Users\\Purple World\\MeuProEventos\\Back\\src\\MeuProEventos.API\\MeuProEventos.API.csproj",
-        "packagesPath": "C:\\Users\\Purple World\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Purple World\\MeuProEventos\\Back\\src\\MeuProEventos.API\\obj\\",
+        "projectPath": "/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/MeuProEventos.API.csproj",
+        "packagesPath": "/Users/douglas/.nuget/packages/",
+        "outputPath": "/Users/douglas/MeuProEventos/Back/src/MeuProEventos.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Purple World\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/douglas/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.407/RuntimeIdentifierGraph.json"
         }
       }
     }
